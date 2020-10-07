@@ -1,3 +1,8 @@
+# Version 3 (2020-10-07)
+
+## Features
+* Implemented versioning for the changelog generator ([ff4275](https://github.com/EduardBargues/changelog-generator/commit/ff42751257ed8f56d09d942eb8633d92590e6a70))
+
 # Version 2 (2020-10-07)
 
 ## Features
